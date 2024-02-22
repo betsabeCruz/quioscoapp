@@ -1,7 +1,6 @@
 import Head from "next/head";
 import Image from "next/image";
 import { ToastContainer } from "react-toastify";
-import OrdenesCompletadas from "../components/OrdenesCompletadas";
 import axios from "axios";
 import useSWR from "swr";
 
